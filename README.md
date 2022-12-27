@@ -1,2 +1,2 @@
 # Broadband-Database-Management
-Broadband Database Management Python Project
+Broadband Database Management SQL Project
